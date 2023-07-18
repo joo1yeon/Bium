@@ -1,11 +1,15 @@
 import React from 'react';
-import MainPage from './pages/MainPage';
+import RouteLink from './Route';
 import './App.css';
+import { Link } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <MainPage></MainPage>
+      <Link to="/login">로그인</Link>
+      <Link to="/signup">회원가입</Link>
+
+      <RouteLink></RouteLink>
     </div>
   );
 }
