@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/node.js [18.16.1]-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 
-### DataBase
+### Database
 
 <div>
   <img src="https://img.shields.io/badge/mariaDB [11.2.0 Alpha]-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
@@ -246,7 +246,7 @@ npm start
 
 ### 2. ERD
 
-<img title="" src="README-assets/Bium ERD.png" alt="" width="" height="">
+<img title="" src="README-assets/bium_ERD.png" alt="" width="" height="">
 
 ### 3. API 설계서
 
@@ -262,7 +262,10 @@ npm start
 
 ### 6. Git Flow 브랜치 전략
 
-<img title="git graph" src="README-assets/Git Graph.gif" alt="" width="" height="" />
+| Git Graph | Contributor Statistics |
+| --- | --- |
+| <img title="git graph" src="README-assets/Git Graph.gif" alt="" width="" height="" /> | <img title="contributor statistics" src="README-assets/contributor_statistics.png" alt="" width="" height="" /> |
+
 
 - Git Flow 사용 브랜치
   - develop: 개발
@@ -301,8 +304,8 @@ npm start
 
 ## 개발팀 소개
 
-|                                                                 손효민                                                                 |                                                                김동현                                                                 |                                                               연주원                                                                |                                                               이지혁                                                                |                                                                 이정찬                                                                 |                                                               최지수                                                               |
-| :------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
-|                                <img title="" src="README-assets/SonHyoMin00.png" alt="Git" width="188">                                |                                <img title="" src="README-assets/DongHyun22.png" alt="Git" width="188">                                |                                <img title="" src="README-assets/joo1yeon.jpg" alt="Git" width="188">                                |                                <img title="" src="README-assets/illu1996.png" alt="Git" width="188">                                |                                <img title="" src="README-assets/jeongchanim.png" alt="Git" width="188">                                |                                <img title="" src="README-assets/cjjss11.png" alt="Git" width="188">                                |
-| [<img title="" src="README-assets/c39c28c470f7abfb058794ccc718bdc7c7a020a1.png" alt="Git" width="75">](https://github.com/sonhyomin00) | [<img title="" src="README-assets/c39c28c470f7abfb058794ccc718bdc7c7a020a1.png" alt="Git" width="75">](https://github.com/DongHyun22) | [<img title="" src="README-assets/c39c28c470f7abfb058794ccc718bdc7c7a020a1.png" alt="Git" width="75">](https://github.com/joo1yeon) | [<img title="" src="README-assets/c39c28c470f7abfb058794ccc718bdc7c7a020a1.png" alt="Git" width="75">](https://github.com/illu1996) | [<img title="" src="README-assets/c39c28c470f7abfb058794ccc718bdc7c7a020a1.png" alt="Git" width="75">](https://github.com/jeongchanim) | [<img title="" src="README-assets/c39c28c470f7abfb058794ccc718bdc7c7a020a1.png" alt="Git" width="75">](https://github.com/cjjss11) |
-|                                                          **팀장**, BE-Leader                                                           |                                                                  BE                                                                   |                                                                 BE                                                                  |                                                              FE-Leader                                                              |                                                                   FE                                                                   |                                                                 FE                                                                 |
+| 손효민 | 김동현 | 연주원 | 이지혁 | 이정찬 | 최지수 |
+| --- | --- | --- | --- | --- | --- |
+| <img title="" src="https://avatars.githubusercontent.com/u/68097374?v=4" alt="Git" width="188"> | <img title="" src="https://avatars.githubusercontent.com/u/79788971?v=4" alt="Git" width="188"> | <img title="" src="https://avatars.githubusercontent.com/u/50977497?v=4" alt="Git" width="188"> | <img title="" src="https://avatars.githubusercontent.com/u/122504259?v=4" alt="Git" width="188"> | <img title="" src="https://avatars.githubusercontent.com/u/117694504?v=4" alt="Git" width="188"> | <img title="" src="https://avatars.githubusercontent.com/u/122518199?v=4" alt="Git" width="188"> |
+| [sonhyomin00](https://github.com/sonhyomin00) | [DongHyun22](https://github.com/DongHyun22) | [joo1yeon](https://github.com/joo1yeon) | [illu1996](https://github.com/illu1996) | [jeongchanim](https://github.com/jeongchanim) | [cjjss11](https://github.com/cjjss11) |
+| 👑 **팀장**<br> BE-Leader<br> INFRA | BE<br> INFRA<br> UCC | BE | FE-Leader | FE | FE |
