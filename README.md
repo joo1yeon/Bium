@@ -1,9 +1,5 @@
 ![스크린샷 2023-08-19 152257.png](README-assets/c8289444305335adbf43f2cf5c6faf4e81eb45ce.png)
 
-###### 배포 주소
-
-> 📌 https://i9c205.p.ssafy.io
-
 ###### 시연 영상
 
 > 📌 광고 https://youtu.be/9n_ocHmlpIk
@@ -12,53 +8,61 @@
 
 # 📌기술 스택
 
-##### Back-End
+### Back-End
 
 <div>
-<img src="https://img.shields.io/badge/Java [11.0.15]-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring Boot [2.7.14]-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Gradle [8.2.1]-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java [11.0.15]-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot [2.7.14]-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle [8.2.1]-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 </div>
 
-##### Front-End
+### Front-End
 
 <div>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> 
-<img src="https://img.shields.io/badge/node.js [18.16.1]-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"> 
+  <img src="https://img.shields.io/badge/node.js [18.16.1]-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 
-##### DataBase
-
-<img src="https://img.shields.io/badge/mariaDB [11.2.0 Alpha]-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/redis [7.0.12]-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-
-##### VCS
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-
-##### IDE
-
-<img src="https://img.shields.io/badge/Visual Studio Code [1.80.1]-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ IDEA [2023.1.4]-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-
-##### CI/CD
-
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> 
-<img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> 
-<img src="https://img.shields.io/badge/Docker [24.0.4]-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-
-##### Environment
+### DataBase
 
 <div>
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> 
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
-<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
-<img src="https://img.shields.io/badge/Mattermost [5.3.1]-0058CC?style=for-the-badge&logo=mattermost&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/mariaDB [11.2.0 Alpha]-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+  <img src="https://img.shields.io/badge/redis [7.0.12]-DC382D?style=for-the-badge&logo=redis&logoColor=white"> 
+</div>
+
+### VCS
+
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</div>
+
+### IDE
+
+<div>
+  <img src="https://img.shields.io/badge/Visual Studio Code [1.80.1]-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA [2023.1.4]-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+</div>
+
+### CI/CD
+
+<div>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> 
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Docker [24.0.4]-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+
+### Environment
+
+<div>
+  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> 
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Mattermost [5.3.1]-0058CC?style=for-the-badge&logo=mattermost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 # 📌서비스 소개
@@ -103,7 +107,7 @@
 
 # 📌 데모
 
-###### 필수 사항
+### 필수 사항
 
 ```bash
 Node.js 18.16.1
@@ -111,18 +115,18 @@ SpringBoot 2.7.14
 npm 9.5.1
 ```
 
-###### 권고 사항
+### 권고 사항
 
 - Chorme Browser
 
-###### 설치
+### 설치
 
 ```bash
 # git clone
 git clone https://lab.ssafy.com/s09-webmobile1-sub2/S09P12C205.git
 ```
 
-###### Back-End
+### Back-End
 
 ```bash
 # backend 폴더로 이동
@@ -133,7 +137,7 @@ ls -arlth
 java -jar bium-0.0.1-SNAPSHOT.jar
 ```
 
-###### Front-End
+### Front-End
 
 ```bash
 # frontend 폴더로 이동
@@ -163,6 +167,7 @@ npm start
   - 비밀번호 찾기
   - 비움 기록 확인
   - 마이페이지
+
 
 # 📌시연 영상
 
@@ -229,56 +234,53 @@ npm start
 
 # 📌프로젝트 진행 및 산출물
 
-#### 프로젝트 개발 기간
+### 프로젝트 개발 기간
 
-2023.07.17 ~ 2023.08.18
+`2023.07.17` ~ `2023.08.18` (7주)
 
-#### 프로젝트 산출물
+### 프로젝트 산출물
 
-##### 1. Figma
+### 1. Figma
 
 <img title="" src="README-assets/figma.PNG" alt="" width="" height="">
 
-##### 2. ERD
+### 2. ERD
 
 <img title="" src="README-assets/Bium ERD.png" alt="" width="" height="">
 
-##### 3. API 설계서
+### 3. API 설계서
 
 [API 명세서](https://www.notion.so/API-URL-aecc36ea3f3d4a48a830f0fe8a689d4a?pvs=21)
 
-##### 4. 요구사항 정의서
+### 4. 요구사항 정의서
 
 [요구사항 정의서](https://docs.google.com/spreadsheets/d/1NY0yTh26FWAF4gvOKL72EtD5HL4vhLlK1UJVjDhHlrQ/edit#gid=283207649)
 
-##### 5. 시스템 아키텍처
+### 5. 시스템 아키텍처
 
 <img title="" src="README-assets/시스템아키텍처.PNG" alt="" width="" height="">
 
-##### 6. Git Flow 브랜치 전략
+### 6. Git Flow 브랜치 전략
 
 <img title="git graph" src="README-assets/Git Graph.gif" alt="" width="" height="" />
 
 - Git Flow 사용 브랜치
-
   - develop: 개발
   - feature: 기능
   - master: 배포
   - hotfix: 에러 수정
 
 - Git Flow 진행 방식
-
   1. feature 브랜치가 완성되면 develop 브랜치로 pull request
   2. Front-End 팀장, Back-End 팀장이 변경 사항을 체크하여 merge
   3. 큰 기능이 완료될 때 마다 develop 브랜치를 master 브랜치로 병합하여 배포
 
 - feature 브랜치 이름 명명 규칙
-
   - [ FE / BE ] / [ 기능 이름 ]
-    <br> ex) FE/login
-    <br> ex) BE/login
+    <br> ex) `FE/login`
+    <br> ex) `BE/login`
 
-##### 7. Jira
+### 7. Jira
 
 <img title="git graph" src="README-assets/jira_번다운 차트.PNG" alt="" width="" height="" />
 
