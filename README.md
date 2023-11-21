@@ -282,7 +282,13 @@ npm start
 
 ### 7. Jira
 
-<img title="git graph" src="README-assets/jira_번다운 차트.PNG" alt="" width="" height="" />
+| 3주차 | 4주차 | 5주차 |
+| ----- | ----- | ----- |
+| ![jira_번다운차트_3주차](./README-assets/jira_번다운차트_2주차.png) | ![jira_번다운차트_4주차](./README-assets/jira_번다운차트_3주차.png) | ![jira_번다운차트_5주차](./README-assets/jira_번다운차트_4주차.png) |
+
+| 6주차 | 7주차 |
+| ----- | ----- |
+| ![jira_번다운차트_6주차](./README-assets/jira_번다운차트_5주차.png) | ![jira_번다운차트_7주차](./README-assets/jira_번다운차트_6주차.png) |
 
 - 목적: 협업, 일정, 업무 관리
 - 방법
