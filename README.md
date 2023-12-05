@@ -12,6 +12,8 @@
 
 > 📌 UCC 경진대회 https://youtu.be/aLL42Mf6IVA
 
+<br>
+
 # 📌기술 스택
 
 ### Back-End
@@ -71,6 +73,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
+<br>
+
 # 📌서비스 소개
 
 ## 서비스 설명
@@ -85,6 +89,8 @@
 ### 타겟
 
 > 바쁜 일상 속 잠깐의 쉼과 생각 비우기가 필요한 사람들
+
+<br>
 
 # 📌기획 배경
 
@@ -110,6 +116,8 @@
 
 - 누구든지 접속해서 참여할 수 있는 생각 비우기 서비스
 - 리프레시 하기 위한 수단
+
+<br>
 
 # 📌 데모
 
@@ -152,6 +160,8 @@ npm i  
 npm start
 ```
 
+<br>
+
 # 📌기능 소개
 
 ## 주요 기능
@@ -174,6 +184,7 @@ npm start
   - 비움 기록 확인
   - 마이페이지
 
+<br>
 
 # 📌시연 영상
 
@@ -238,6 +249,8 @@ npm start
 
   <img title="" src="README-assets/최종-마이페이지-회원탈퇴.gif" alt="" width="" height="">
 
+<br>
+
 # 📌프로젝트 산출물
 
 ### 1. Figma
@@ -300,10 +313,12 @@ npm start
   3. 스프린트 시작
 - 스프린트: 일주일 단위
 
+<br>
+
 # 📌개발 멤버
 
 | 손효민 | 김동현 | 연주원 | 이지혁 | 이정찬 | 최지수 |
-| --- | --- | --- | --- | --- | --- |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img title="" src="https://avatars.githubusercontent.com/u/68097374?v=4" alt="Git" width="188"> | <img title="" src="https://avatars.githubusercontent.com/u/79788971?v=4" alt="Git" width="188"> | <img title="" src="https://avatars.githubusercontent.com/u/50977497?v=4" alt="Git" width="188"> | <img title="" src="https://avatars.githubusercontent.com/u/122504259?v=4" alt="Git" width="188"> | <img title="" src="https://avatars.githubusercontent.com/u/117694504?v=4" alt="Git" width="188"> | <img title="" src="https://avatars.githubusercontent.com/u/122518199?v=4" alt="Git" width="188"> |
 | [sonhyomin00](https://github.com/sonhyomin00) | [DongHyun22](https://github.com/DongHyun22) | [joo1yeon](https://github.com/joo1yeon) | [illu1996](https://github.com/illu1996) | [jeongchanim](https://github.com/jeongchanim) | [cjjss11](https://github.com/cjjss11) |
 | 👑 **팀장**<br> BE-Leader<br> INFRA | BE<br> INFRA<br> UCC | BE | FE-Leader | FE | FE |
