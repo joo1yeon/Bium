@@ -1,4 +1,4 @@
-![스크린샷 2023-08-19 152257.png](README-assets/c8289444305335adbf43f2cf5c6faf4e81eb45ce.png)
+![](README-assets/cover_image.png)
 
 # 심신 안정을 위한 화상 연결 서비스
 
