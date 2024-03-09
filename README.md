@@ -281,11 +281,15 @@ npm start
 
 ### 3. API 설계서
 
-[API 명세서](https://www.notion.so/API-URL-aecc36ea3f3d4a48a830f0fe8a689d4a?pvs=21)
+👉 [API 명세서](https://www.notion.so/API-URL-aecc36ea3f3d4a48a830f0fe8a689d4a?pvs=21)
+
+<img src="README-assets/API 명세서.png" width="" height="">
 
 ### 4. 요구사항 정의서
 
-[요구사항 정의서](https://docs.google.com/spreadsheets/d/1NY0yTh26FWAF4gvOKL72EtD5HL4vhLlK1UJVjDhHlrQ/edit#gid=283207649)
+👉 [요구사항 정의서](https://docs.google.com/spreadsheets/d/1NY0yTh26FWAF4gvOKL72EtD5HL4vhLlK1UJVjDhHlrQ/edit#gid=283207649)
+
+<img src="README-assets/요구사항 정의서.png" width="" height="">
 
 ### 5. 시스템 아키텍처
 
